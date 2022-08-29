@@ -6,9 +6,13 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on NLP projects
+
 🌱 I’m currently learning Mahine Learning
+
 👯 I’m looking to collaborate on making powerful Dapps
+
 🤔 I’m looking for help with DSA
+
 💬 Ask me about Python queries
 
 
