@@ -6,9 +6,9 @@ Hey There!
 Here are some ideas to get you started:
 -->
 
-🔭 I’m currently working on NLP projects
+🔭 I’m currently working on creating microservices
 
-🌱 I’m currently learning Mahine Learning
+<!-- 🌱 I’m currently learning Mahine Learning -->
 
 👯 I’m looking to collaborate on making powerful Dapps
 
