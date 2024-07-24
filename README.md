@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 
 
 <!-- ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushkumar05) -->
-![](https://komarev.com/ghpvc/?username=ayushkumar05&label=PROFILE+VIEWS)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumar05)](https://github.com/anuraghazra/github-readme-stats)
 
